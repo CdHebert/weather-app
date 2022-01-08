@@ -1,0 +1,116 @@
+* {
+    color: #A6F0C6;
+    
+}
+
+header {
+    display: flex;
+    background-color: #A98B98;
+    color: gray;
+    font-size: 1.5em;
+    flex-direction: row;
+    justify-content: center;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #4E3D53;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+/* search bar and history section start */
+.searchBar-histories {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    margin: 15px;
+}
+
+.search-top {
+    display: flex;
+    flex-direction: column;
+    border: #A6F0C6 solid 2px;
+    border-radius: 15px;
+}
+
+.h2-style,
+.h1-style {
+    text-decoration: underline;
+    align-self: center;
+}
+
+.search-top input {
+    text-align: center;
+    background-color: #4E3D53;
+    align-self: center;
+}
+
+.search-top button {
+    background-color: #A98B98;
+    align-self: center;
+    width: 175px;
+}
+
+/* search button done */
+
+/* history start */
+
+.past-searches {
+    display: flex;
+    flex-direction: column;
+    border: #A6F0C6 solid 2px;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+
+.past-searches button {
+    align-content: center;
+    align-items: center;
+    margin: 5px 0 ;
+    background-color: #A98B98;
+}
+/* end of history */
+
+.today {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    width: 100%;
+    border: #A6F0C6 solid 2px;
+    border-radius: 15px;
+    margin-left: 20%;
+    background-color: #A98B98;
+}
+
+.today img {
+    width: 15%;
+}
+
+.days-after {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-left: 20%;
+}
+
+.days-after div {
+    display: flex;
+    flex-direction: column;
+    border: #A6F0C6 solid 2px;
+    margin: 5px;
+    width: 20%;
+    border-radius: 15px;
+    background-color: #A98B98;
+}
+
+.days-after div img {
+    width: 15%;
+}
+
+

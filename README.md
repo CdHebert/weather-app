@@ -1,6 +1,6 @@
 # Weather Checker By City "It's Looking Like Weather"
 
-![weather-blank](./assets/images/weather-blank.png)
+![weather-blank](./assets/images/weatherBoard.png)
 
 ## Description
 
@@ -9,7 +9,6 @@ It's Looking like Weather is a weather searcher that searches up cities and disp
 After the search is made your search will be added to the page for quick access to your previous
 searches.
 
-![weather-full](./assets/images/weather-full.png)
 
 
 ## Contributing 
@@ -23,6 +22,6 @@ https://cdhebert.github.io/weather-app/ - active page
 https://github.com/CdHebert/weather-app - Github Repository
 
 ## Author
-Cody Hebert(Abear).
+Cody Hebert.
 * Made by  
 ![Hebert-Creations](./assets/images/hebert-creations.png)
